@@ -1,4 +1,6 @@
 #  node-randpass - Pseudo-random password generator 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/node-randpass.svg)](https://greenkeeper.io/)
       
 This module adds a pseudo-random password generator
 
